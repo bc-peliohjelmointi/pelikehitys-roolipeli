@@ -3710,6 +3710,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5505130291679756918, guid: 3058de44444fdf84eb427c5438e475a7, type: 3}
+      propertyPath: DebugFontSize
+      value: 32
+      objectReference: {fileID: 0}
     - target: {fileID: 8832722883055063696, guid: 3058de44444fdf84eb427c5438e475a7, type: 3}
       propertyPath: m_Name
       value: Door
